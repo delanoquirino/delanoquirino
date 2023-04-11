@@ -2,6 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo novas habilidades como desenvolvedor front-end.
 - 🎓 &nbsp; JavaScript/React na Udemy.
+- 🎓 &nbsp; Desenvolvimento Web na Newtab Academy.
 - 💼 &nbsp; Buscando a primeira oportunidade de trabalho.
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript e React.
 
