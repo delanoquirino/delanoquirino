@@ -4,7 +4,7 @@
 - 🎓 &nbsp; JavaScript/React na Udemy.
 - 🎓 &nbsp; Desenvolvimento Web na Newtab Academy.
 - 💼 &nbsp; Buscando a primeira oportunidade de trabalho.
-- 🌱 &nbsp; Aprendendo mais sobre JavaScript e React.
+- 🌱 &nbsp; Aprimorando meus conhecimentos em React e Next.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
