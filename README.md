@@ -1,43 +1,38 @@
-<h3> :man:  &nbsp;Sobre mim </h3>
+<h1>👋 &nbsp;Olá, Eu sou Delano Quirino !</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/delanoquirino"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:delanoquirino@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo novas habilidades como Software Developer.
-- 🎓 &nbsp; JavaScript/React na Udemy.
-- 🎓 &nbsp; Desenvolvimento Web na Newtab Academy.
-- 💼 &nbsp; Buscando a primeira oportunidade de trabalho.
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
+Desenvolvedor Front-End com experiência em HTML, CSS, JavaScript e TypeScript, com conhecimento em React e Next.js. Capacidade para criar interfaces web responsivas e seguir padrões de design modernos. Possuo conhecimento em React Native, permitindo desenvolver aplicações móveis eficientes. Habilidade em consumo de APIs REST, garantindo a integração eficaz de serviços web. Capaz de trabalhar com controle de versão de código usando Git. Tenho conhecimento em inglês técnico, capaz de ler e compreender documentações técnicas em inglês, facilitando a aprendizagem de novas tecnologias e práticas.
 
-**Aplicações e Dados**
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+Se quiser se conectar, colaborar ou tiver qualquer dúvida, fique à vontade para <a href="mailto:delanoquirino@gmail.com">clicar aqui e me enviar um e-mail</a> — ou me chamar no <a href="https://www.linkedin.com/in/delanoquirino/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
-**DevOps**
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
-**Ferramentas de Desenvolvimento**
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
-<br/>
 
-<a href="https://github.com/delanoquirino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delanoquirino&theme=dracula&show_icons=true" />
-</a>
+<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: DelanoQuirino](https://img.shields.io/badge/-delanoquirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delano-quirino-6322171ba/)](https://www.linkedin.com/in/delano-quirino-6322171ba/)
-[![Gmail Badge](https://img.shields.io/badge/-delanoquirino@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delanoquirino@gmail.com)](mailto:delanoquirino@gmail.com)
-[![GitHub delanoquirino]( https://img.shields.io/github/followers/delanoquirino?label=follow&style=social)](https://github.com/delanoquirino)
+![Delano Quirino GitHub Stats](https://github-readme-stats.vercel.app/api?username=delanoquirino&show_icons=true&theme=dracula)
